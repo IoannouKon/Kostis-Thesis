@@ -12,10 +12,9 @@ The project aims to achieve the following key goals (listed below). Progress is 
 - ✅ **DONE** – Completed task
 - ❌ **FAILED** – Task could not be completed
 - 🚧 **TODO** – Task pending (on going) 
-- 
 ## Goals
 
 Here are the key goals for the project, with their progress tracking:
 
 1. ✅ **Encoder C:** [First implementation of encoder in C]
-2. 🚧 ** Linear RoCC Accelerator:** [Adding a Custom RoCC Acc for linear transform]
+2. 🚧 **Linear RoCC Accelerator:** [Adding a Custom RoCC Acc for linear transform]
